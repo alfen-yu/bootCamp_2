@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      fsociety invites you.
+      fsociety invites you
     </div>
   );
 }
